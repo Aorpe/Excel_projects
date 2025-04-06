@@ -29,3 +29,10 @@ Il vise à visualiser et analyser les performances d’un service client à trav
 
 ## 📂 Contenu du repo
 
+
+---
+
+## 📌 Remarques
+
+Ce projet a été réalisé dans le cadre de mon apprentissage en data analysis.  
+Il illustre ma capacité à transformer des données brutes en insights visuels à l’aide d’Excel.
