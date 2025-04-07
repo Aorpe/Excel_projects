@@ -19,16 +19,16 @@ Il vise à visualiser et analyser les performances d’un service client à trav
 
 ## 🛠️ Compétences utilisées
 
-- Tableaux Croisés Dynamiques (TCD)
-- Segments pour filtres dynamiques
-- Graphiques dynamiques
+- Tableaux Croisés Dynamiques (TCD) pour extraire des KPI
+- Nettoyage et traitement des données (Power Query)
+- Dashboard interactif et lisible
 - Catégorisation des données (plages de durée, scores de satisfaction arrondis)
-- Mise en forme et visualisation dans Excel
+- Visualisation orientée prise de décision
 
 ---
 
-## 📂 Contenu du repo
-
+## 🧰 Outils utilisés  
+- Microsoft Excel (formules, Power Query, TCD, graphiques dynamiques)
 
 ---
 
